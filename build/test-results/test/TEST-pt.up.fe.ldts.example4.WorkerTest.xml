@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pt.up.fe.ldts.example4.WorkerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-10T16:33:09" hostname="DESKTOP-F2KKRUC" time="0.002">
+<testsuite name="pt.up.fe.ldts.example4.WorkerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-10T17:48:39" hostname="DESKTOP-F2KKRUC" time="0.002">
   <properties/>
   <testcase name="testClient()" classname="pt.up.fe.ldts.example4.WorkerTest" time="0.001"/>
   <testcase name="testWorker()" classname="pt.up.fe.ldts.example4.WorkerTest" time="0.001"/>
